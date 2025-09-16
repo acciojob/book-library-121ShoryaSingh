@@ -27,7 +27,7 @@ body {
 	width: 100%;
 	justify-content: flex-start;
 }
-.book-info:hover{
+.book-info p{
 	color: rgb(119, 119, 119)
 }
 .Price-block {
