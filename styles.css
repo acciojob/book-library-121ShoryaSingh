@@ -22,11 +22,13 @@ body {
 .book-info {
 	background-color: rgb(46, 204, 113);
 	color: rgb(255, 255, 255);
-	color: rgb(119, 119, 119);
 	display: flex;
 	flex-direction: column;
 	width: 100%;
 	justify-content: flex-start;
+}
+.book-info:hover{
+	color: rgb(119, 119, 119)
 }
 .Price-block {
 	background-color: #2ecc71;
