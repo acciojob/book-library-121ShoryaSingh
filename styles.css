@@ -21,7 +21,7 @@ body {
 }
 .book-info {
 	background-color: rgb(46, 204, 113);
-	color: white;
+	color: rgb(255, 255, 255);
 	display: flex;
 	flex-direction: column;
 	width: 100%;
@@ -29,6 +29,7 @@ body {
 }
 .Price-block {
 	background-color: #2ecc71;
+	color: rgb(255, 255, 255);
 	width: 100%;
 }
 
